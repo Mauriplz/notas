@@ -1,5 +1,7 @@
 # Es una aplicacion de notas que te permite registarte logearte y creart notas por usuario
 
+Puedes registrarte tanto por correo como por Google, una vez dentro hay que añadir la nueva nota New Entry y seleccionar la nota que vamos a modificar y darle a save para guardar los cambios, tambien se pueden subir imagenes o borrar la nota
+
 ## Available Scripts
 
 In the project directory, you can run:
